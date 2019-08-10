@@ -19,4 +19,4 @@ Rear Camera  | 13 + 13 MP, f/2.0, phase detection autofocus, dual-LED (dual tone
 Front Camera | 8 MP, f/2.2, 1.4 µm pixel size, 1080p
 Release Date | April 2016
 
-![Coolpad Cool 1]( https://images.app.goo.gl/waPYAyef6pE6HkSXA "Coolpad Cool 1")
+![Coolpad Cool 1](https://drive.google.com/open?id=1siepVHctrTLvtShjaEQY7DOEP0u_Aoy4 "Coolpad Cool 1")
